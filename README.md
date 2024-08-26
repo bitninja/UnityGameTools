@@ -1,6 +1,10 @@
 # UnityGameTools
 
-**UnityGameTools** is a collection of utility classes and components designed to extend Unity's functionality. These tools help streamline game development by providing various utilities for performance checking, movement, health management, spawning, and more.
+**UnityGameTools** is a collection of utility classes and components designed to extend Unity's functionality. These tools help streamline game development by providing various utilities for performance checking, movement, health management, spawning, and more.  Currently still in the process of copying over code from my previous games to this project.
+
+If you enjoy this project and want to support future development, please consider purchasing my Steam game [Blasteron](https://store.steampowered.com/app/720850/Blasteron/). It's available for just $1.99, and your reviews would mean a lot. Thank you for your support!
+https://store.steampowered.com/app/720850/Blasteron/
+
 
 ## Editor Components
 * **PerformanceChecker**
